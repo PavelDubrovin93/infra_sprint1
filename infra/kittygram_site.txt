@@ -1,0 +1,5 @@
+IP: 86.169.173.168;
+name_taski: https://taskihome.work.gd/;
+name_kittygram: https://kittykittykitty.hopto.org/;
+login: AdmiralT;
+password: Qq121212;
